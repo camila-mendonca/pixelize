@@ -186,7 +186,6 @@
       "objectsGroups": [],
       "variables": [
         {
-          "folded": true,
           "name": "currentLevel",
           "type": "structure",
           "children": [
@@ -229,6 +228,11 @@
             },
             {
               "name": "coloredPixels",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "finishedPixels",
               "type": "number",
               "value": 0
             },
@@ -381,7 +385,7 @@
           "value": "0"
         },
         {
-          "name": "correctColoredPixels",
+          "name": "finishedPixels",
           "type": "number",
           "value": 0
         },
@@ -1570,7 +1574,7 @@
                 "progress",
                 "Text",
                 "=",
-                "\"Progress: \" +  ToString(ceil((correctColoredPixels/currentLevel.coloredPixels)*100)) + \"%\""
+                "\"Progress: \" + ToString(ceil((finishedPixels / currentLevel.coloredPixels) * 100)) + \"%\""
               ]
             }
           ]
@@ -2160,7 +2164,7 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "correctColoredPixels",
+                    "finishedPixels",
                     "+",
                     "1"
                   ]
@@ -2384,7 +2388,7 @@
                                 "value": "NumberVariable"
                               },
                               "parameters": [
-                                "correctColoredPixels",
+                                "finishedPixels",
                                 "<",
                                 "currentLevel.coloredPixels"
                               ]
@@ -2774,7 +2778,7 @@
                     "value": "SendAsyncRequest"
                   },
                   "parameters": [
-                    "\"https://raw.githubusercontent.com/camila-mendonca/pixelize/02e0a26651ec37f72b231bc8f0f2b6617f8b922b/levels.json\"",
+                    "\"https://raw.githubusercontent.com/camila-mendonca/pixelize/refs/heads/main/resources/levels.json\"",
                     "",
                     "\"GET\"",
                     "",
@@ -2926,7 +2930,7 @@
               "parameters": [
                 "selectedLevel",
                 "=",
-                "\"https://raw.githubusercontent.com/camila-mendonca/pixelize/refs/heads/main/\"+LevelName.VariableString(name)+\".json\""
+                "\"https://raw.githubusercontent.com/camila-mendonca/pixelize/refs/heads/main/resources/levels/\"+LevelName.VariableString(name)+\".json\""
               ]
             },
             {
