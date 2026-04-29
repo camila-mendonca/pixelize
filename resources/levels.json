@@ -1,0 +1,13 @@
+{
+	"levelsList":[
+	{
+		"levelName": "Fruit",
+		"path": "resources\\levels\\fruit.json"
+	},
+	{
+		"levelName": "Plant",
+		"path": "resources\\levels\\flower.json"
+	}
+	
+	]
+}

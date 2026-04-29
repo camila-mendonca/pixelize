@@ -1,0 +1,31 @@
+--- Javascript ---
+
+[ ] Turn image into json
+ (x) save pixel with rgb and opacity info
+ (x) give each color an id and count
+ (x) organize list of colors by hue
+
+--- Main Menu ---
+ (x) Load levels from json list
+
+--- Game Screen ---
+
+[ ] Load json into game
+ (x) load palette from colors list
+ (x) load non transparent colors onto gameplay board
+ (x) add corresponding color id onto each pixel on board
+
+[ ] Main gameplay
+ (x) Select color from palette, highlight selected color
+ (x) if square clicked is the same as selected color, remove number and don't let the color change again
+  (x) else: add the selected color at 30% opacity, keep number and square can change color yet
+ (x) count correctly painted squares
+
+---------
+
+Next:
+
+(x) check progress of each color on the pallete
+  (x) the finished ones will become unavailable
+  () set selectedColor to the next free one
+() when all colors are done, send to Congrats screen

@@ -1,0 +1,3542 @@
+{
+  "pixels": [
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6AB41F",
+        "a": 255,
+        "id": 10,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "558D1D",
+        "a": 255,
+        "id": 11,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "3A581B",
+        "a": 255,
+        "id": 7,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "2A3E16",
+        "a": 255,
+        "id": 9,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "456E1B",
+        "a": 255,
+        "id": 8,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "391B12",
+        "a": 255,
+        "id": 6,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "E04E3F",
+        "a": 255,
+        "id": 3,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "C74335",
+        "a": 255,
+        "id": 4,
+        "isPainted": false
+      },
+      {
+        "hex": "B0392C",
+        "a": 255,
+        "id": 5,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "6E2D26",
+        "a": 255,
+        "id": 2,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ],
+    [
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 80,
+        "id": 1,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      },
+      {
+        "hex": "000000",
+        "a": 0,
+        "id": 0,
+        "isPainted": false
+      }
+    ]
+  ],
+  "colorList": [
+    {
+      "hex": "000000",
+      "count": 14,
+      "hue": 0,
+      "id": 1,
+      "paintedCount": 0
+    },
+    {
+      "hex": "6E2D26",
+      "count": 32,
+      "hue": 6,
+      "id": 2,
+      "paintedCount": 0
+    },
+    {
+      "hex": "E04E3F",
+      "count": 42,
+      "hue": 6,
+      "id": 3,
+      "paintedCount": 0
+    },
+    {
+      "hex": "C74335",
+      "count": 15,
+      "hue": 6,
+      "id": 4,
+      "paintedCount": 0
+    },
+    {
+      "hex": "B0392C",
+      "count": 13,
+      "hue": 6,
+      "id": 5,
+      "paintedCount": 0
+    },
+    {
+      "hex": "391B12",
+      "count": 20,
+      "hue": 14,
+      "id": 6,
+      "paintedCount": 0
+    },
+    {
+      "hex": "3A581B",
+      "count": 50,
+      "hue": 90,
+      "id": 7,
+      "paintedCount": 0
+    },
+    {
+      "hex": "456E1B",
+      "count": 72,
+      "hue": 90,
+      "id": 8,
+      "paintedCount": 0
+    },
+    {
+      "hex": "2A3E16",
+      "count": 29,
+      "hue": 90,
+      "id": 9,
+      "paintedCount": 0
+    },
+    {
+      "hex": "6AB41F",
+      "count": 27,
+      "hue": 90,
+      "id": 10,
+      "paintedCount": 0
+    },
+    {
+      "hex": "558D1D",
+      "count": 21,
+      "hue": 90,
+      "id": 11,
+      "paintedCount": 0
+    }
+  ],
+  "coloredPixels": 335,
+  "imgWidth": 21,
+  "imgHeight": 27
+}
