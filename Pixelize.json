@@ -786,6 +786,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -836,6 +837,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -924,6 +926,7 @@
                       ],
                       "events": [
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::ForEachChildVariable",
                           "iterableVariableName": "currentRow",
                           "valueIteratorVariableName": "currentPixel",
@@ -1206,6 +1209,18 @@
                           "loopIndexVariable": "ColumnIndex"
                         },
                         {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "The heck is idCount?\n\nlevel.pixels: In event 1.1.1.0.1, there's an action Change the variable idCount: + VariableChildCount(level.pixels). However, your scene variables only have currentLevel.pixels, not level.pixels. This looks like a typo or a variable that was renamed. You should change level.pixels to currentLevel.pixels in this action."
+                        },
+                        {
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [],
                           "actions": [
@@ -1236,7 +1251,7 @@
                               "parameters": [
                                 "idCount",
                                 "+",
-                                "VariableChildCount(level.pixels)"
+                                "VariableChildCount(currentLevel.pixels)"
                               ]
                             }
                           ]
@@ -1737,6 +1752,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -1873,60 +1889,6 @@
           "colorR": 74,
           "creationTime": 0,
           "folded": true,
-          "name": "Camera",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "disabled": true,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Middle\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetCameraCenterX"
-                  },
-                  "parameters": [
-                    "",
-                    "=",
-                    "MouseX()",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetCameraCenterY"
-                  },
-                  "parameters": [
-                    "",
-                    "=",
-                    "MouseY()",
-                    "",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
           "name": "Zoom",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2040,7 +2002,6 @@
           "parameters": []
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -2237,7 +2198,7 @@
                     "        newHex.setString(nextColor.getChild(\"hex\").getAsString());",
                     "        console.log(\"Next color selected: \" + nextColor.getChild(\"id\").getAsNumber());",
                     "",
-                    "        const palette = runtimeScene.getObjects(\"palette\");",
+                    "        const palette = runtimeScene.getObjects(\"paletteBlock\");",
                     "        const nextPalette = palette[indexToCheck-1];",
                     "        const availableVariable = nextPalette.getVariables().get(\"available\");",
                     "        availableVariable.setBoolean(false);",
@@ -2249,260 +2210,7 @@
                   ],
                   "parameterObjects": "",
                   "useStrict": true,
-                  "eventsSheetExpanded": true
-                },
-                {
-                  "disabled": true,
-                  "type": "BuiltinCommonInstructions::ForEachChildVariable",
-                  "iterableVariableName": "currentLevel.colorList",
-                  "valueIteratorVariableName": "color",
-                  "keyIteratorVariableName": "",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "currentLevel.colorList[LoopIndex].id",
-                        "=",
-                        "clickedColor"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "currentLevel.colorList[LoopIndex].paintedCount",
-                        "+",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "If all pixels of this color were painted:"
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "currentLevel.colorList[LoopIndex].paintedCount",
-                            "=",
-                            "currentLevel.colorList[LoopIndex].count"
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "Change the oppacity of the palette color and make it unavailable"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::ForEach",
-                          "object": "paletteBlock",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "NumberObjectVariable"
-                              },
-                              "parameters": [
-                                "paletteBlock",
-                                "colorId",
-                                "=",
-                                "currentLevel.colorList[LoopIndex].id"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "PrimitiveDrawing::FillOpacity"
-                              },
-                              "parameters": [
-                                "paletteBlock",
-                                "=",
-                                "126"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetBooleanObjectVariable"
-                              },
-                              "parameters": [
-                                "paletteBlock",
-                                "available",
-                                "False",
-                                ""
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "If there are pixels left to paint, set selected color to the next/previous one on the palette"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "NumberVariable"
-                              },
-                              "parameters": [
-                                "finishedPixels",
-                                "<",
-                                "currentLevel.coloredPixels"
-                              ]
-                            }
-                          ],
-                          "actions": []
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "ATTENTION: Need to see how this thing iterates\ncolor[x] is done {\n\tif x < sizeArray{\n\twhile !nextIsPicked\t{\n\t\tif color[x+1] is not done {colorPicked=color.id}\n\t}}\n}"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [],
-                          "actions": [],
-                          "events": [
-                            {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "value": "SetNumberVariable"
-                                  },
-                                  "parameters": [
-                                    "x",
-                                    "=",
-                                    "VariableChildCount(currentLevel.colorList)-1"
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "BuiltinCommonInstructions::Comment",
-                              "color": {
-                                "b": 109,
-                                "g": 230,
-                                "r": 255,
-                                "textB": 0,
-                                "textG": 0,
-                                "textR": 0
-                              },
-                              "comment": "If not last color of the array, change selected color to next"
-                            },
-                            {
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [
-                                {
-                                  "type": {
-                                    "value": "NumberVariable"
-                                  },
-                                  "parameters": [
-                                    "LoopIndex",
-                                    "<",
-                                    "VariableChildCount(currentLevel.colorList)"
-                                  ]
-                                }
-                              ],
-                              "actions": []
-                            },
-                            {
-                              "infiniteLoopWarning": true,
-                              "type": "BuiltinCommonInstructions::While",
-                              "whileConditions": [],
-                              "conditions": [],
-                              "actions": [],
-                              "variables": [
-                                {
-                                  "name": "isNextColorPicked",
-                                  "type": "boolean",
-                                  "value": false
-                                }
-                              ]
-                            }
-                          ],
-                          "variables": [
-                            {
-                              "name": "x",
-                              "type": "number",
-                              "value": 0
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "If it's the last one from the array, run backwards"
-                        }
-                      ]
-                    }
-                  ],
-                  "variables": [
-                    {
-                      "name": "LoopIndex",
-                      "type": "number",
-                      "value": 0
-                    }
-                  ],
-                  "loopIndexVariable": "LoopIndex"
+                  "eventsSheetExpanded": false
                 }
               ]
             },
@@ -2518,8 +2226,8 @@
                     "rectangle",
                     "0",
                     "0",
-                    "pixelSize",
-                    "pixelSize"
+                    "pixel.size",
+                    "pixel.size"
                   ]
                 }
               ]
